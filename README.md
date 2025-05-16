@@ -1,6 +1,6 @@
 ![MasterHead](https://www.omadahealth.com/hubfs/QuantifyingBehavior_Header_Animate_080818-1.gif)
 <h1 align="center">Hi 👋, I'm Amal John</h1>
-<h3 align="center">Passionate Data Analyst hailing from India.</h3>
+<h3 align="center">Passionate Data Scientist hailing from India.</h3>
 
 - 🔭 I’m currently working on **Stock indicator**
 
